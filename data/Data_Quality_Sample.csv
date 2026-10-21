@@ -1,0 +1,204 @@
+RecordID,InspectionDate,PropertyType,City,RoofType,SidingType,Stories,HazardType,ReviewStatus,ReviewerID,OrderValue
+REC0001,27-02-2026,Apartment,Mumbai,Tile,Vinyl,1,None,Rejected,REV12,1349.05
+REC0002,14-02-2026,Villa,Nagpur,Asphalt Shingle,Brick,1,Tree Damage,Rejected,REV10,137.15
+REC0003,12-04-2026,Villa,Pune,Flat,Fiber Cement,2,None,Approved,REV12,691.66
+REC0004,23-05-2026,Independent House,Pune,Metal,Brick,1,Water Damage,Approved,REV06,1286.49
+REC0005,16-05-2026,Apartment,Nashik,Slate,Brick,2,None,Rejected,REV05,1261.17
+REC0006,05-07-2026,Independent House,Nagpur,Asphalt Shingle,Vinyl,2,None,Approved,REV02,632.18
+REC0007,21-08-2026,Townhouse,Pune,Metal,Wood,1,Roof Damage,Rejected,REV11,1007.25
+REC0008,29-03-2026,Independent House,Pune,Flat,Stucco,2,Structural Concern,Approved,REV11,554
+REC0009,29-01-2026,Independent House,Nagpur,Metal,Stucco,2,None,Approved,REV10,1326.91
+REC0010,11-06-2026,Independent House,Nashik,Flat,Stucco,1,Roof Damage,Approved,REV04,1142.98
+REC0011,03-10-2026,Townhouse,Aurangabad,Flat,Fiber Cement,2,Roof Damage,Approved,REV03,813.34
+REC0012,16-02-2026,Apartment,Nagpur,Tile,Vinyl,4,Water Damage,Rejected,REV02,638.67
+REC0013,28-08-2026,Townhouse,Aurangabad,Asphalt Shingle,Brick,4,Structural Concern,Needs Review,REV11,576.25
+REC0014,31-05-2026,Villa,Pune,Flat,Brick,4,Roof Damage,Rejected,REV03,810.75
+REC0015,24-02-2026,Townhouse,Aurangabad,Slate,Vinyl,1,Roof Damage,Approved,REV09,1434.9
+REC0016,29-09-2026,Apartment,Aurangabad,Metal,Stucco,1,None,Needs Review,REV05,435.23
+REC0017,04-05-2026,Apartment,,Flat,Brick,3,Tree Damage,Approved,REV11,765.4
+REC0018,09-10-2026,Independent House,Mumbai,Slate,Fiber Cement,2,Tree Damage,Rejected,REV12,1065.81
+REC0019,09-06-2026,Villa,Mumbai,,Fiber Cement,2,None,Approved,REV04,189.64
+REC0020,11-01-2026,Independent House,Aurangabad,Tile,Brick,1,None,Approved,REV02,1367.59
+REC0021,19-06-2026,Apartment,Aurangabad,Tile,Wood,4,Water Damage,Approved,REV09,285.24
+REC0022,31-08-2026,Independent House,Nashik,Flat,Vinyl,1,None,Rejected,REV07,596.02
+REC0023,30-07-2026,Villa,Nagpur,Asphalt Shingle,Brick,0,Roof Damage,Approved,REV04,368.23
+REC0024,02-10-2026,Villa,Pune,Flat,Vinyl,2,Water Damage,Approved,REV02,720.38
+REC0025,09-10-2026,Apartment,Nagpur,Slate,Brick,1,Tree Damage,Approved,REV07,779.9
+REC0026,20-04-2026,Villa,Nagpur,Tile,Stucco,1,Water Damage,Needs Review,REV08,499.35
+REC0027,12-10-2026,Villa,Pune,Tile,Wood,1,None,Rejected,REV12,859.07
+REC0028,10-06-2026,Apartment,Nagpur,Slate,Stucco,3,Structural Concern,Approved,REV01,1445.09
+REC0029,11-02-2026,Independent House,Nagpur,Slate,Brick,4,Tree Damage,Pending??,REV02,1418.23
+REC0030,07-05-2026,Apartment,Aurangabad,Asphalt Shingle,Stucco,4,Structural Concern,Rejected,REV09,542.92
+REC0031,14-05-2026,Independent House,Mumbai,Tile,Wood,2,Tree Damage,Rejected,REV11,-25
+REC0032,11-06-2026,Apartment,Nagpur,Flat,Fiber Cement,3,None,Approved,REV09,398.42
+REC0033,16-05-2026,Independent House,Mumbai,Asphalt Shingle,Vinyl,2,Roof Damage,Approved,REV08,1267.24
+REC0034,04-06-2026,Apartment,,Metal,Brick,1,Roof Damage,Approved,REV02,1139.38
+REC0035,21-03-2026,Townhouse,Mumbai,Slate,Vinyl,4,Roof Damage,Approved,REV11,987.93
+REC0036,16-05-2026,Villa,Mumbai,Asphalt Shingle,Brick,4,Water Damage,Needs Review,REV01,104.96
+REC0037,08-03-2026,Townhouse,Pune,Flat,Fiber Cement,4,,Rejected,REV01,256.62
+REC0038,18-03-2026,Apartment,Mumbai,,Fiber Cement,1,Water Damage,Approved,REV01,531.56
+REC0039,21-01-2026,Townhouse,Pune,Tile,Brick,2,Structural Concern,Needs Review,REV10,1149.27
+REC0040,02-05-2026,Independent House,Pune,Flat,Brick,1,Roof Damage,Needs Review,REV11,1309.69
+REC0041,08-05-2026,Townhouse,Pune,Asphalt Shingle,Stucco,1,Water Damage,Approved,REV04,1243.22
+REC0042,24-08-2026,Townhouse,Mumbai,Tile,Vinyl,1,Tree Damage,Needs Review,REV06,490.04
+REC0043,05-02-2026,Townhouse,Mumbai,Slate,Stucco,4,Structural Concern,Needs Review,REV01,261.48
+REC0044,14-05-2026,Independent House,Aurangabad,Metal,Brick,1,Structural Concern,Needs Review,REV06,1119.96
+REC0045,10-06-2026,Villa,Aurangabad,Slate,Brick,2,Structural Concern,Approved,REV05,162.14
+REC0046,12-08-2026,Apartment,Aurangabad,Slate,Vinyl,0,Water Damage,Approved,REV11,1389.08
+REC0047,10-06-2026,Apartment,Mumbai,Slate,Wood,4,Water Damage,Needs Review,REV07,1076.09
+REC0048,11-10-2026,Independent House,Pune,Flat,Stucco,4,Tree Damage,Rejected,REV10,521.33
+REC0049,08-10-2026,Apartment,Mumbai,Metal,Vinyl,2,Structural Concern,Rejected,REV11,551.15
+REC0050,15-08-2026,Villa,Pune,Slate,Stucco,4,Tree Damage,Rejected,REV02,497.3
+REC0051,21-06-2026,Apartment,,Metal,Vinyl,1,Tree Damage,Approved,REV01,442.78
+REC0052,01-09-2026,Apartment,Nashik,Flat,Fiber Cement,1,Water Damage,Needs Review,REV07,441.58
+REC0053,03-01-2026,Apartment,Nashik,Tile,Vinyl,4,Structural Concern,Needs Review,REV01,880.37
+REC0054,04-03-2026,Villa,Pune,Flat,Fiber Cement,3,Structural Concern,Needs Review,REV08,957.71
+REC0055,16-09-2026,Villa,Aurangabad,Flat,Vinyl,4,Water Damage,Needs Review,REV05,1152.49
+REC0056,22-05-2026,Villa,Pune,Metal,Stucco,1,Roof Damage,Approved,REV05,570.19
+REC0057,04-10-2026,Apartment,Pune,,Vinyl,2,Tree Damage,Rejected,REV04,189.92
+REC0058,28-07-2026,Townhouse,Aurangabad,Flat,Stucco,1,Tree Damage,Pending??,REV07,1366.77
+REC0059,11-01-2026,Villa,Nashik,Asphalt Shingle,Wood,2,Water Damage,Needs Review,REV09,1146.52
+REC0060,07-10-2026,Independent House,Nashik,Tile,Wood,2,Water Damage,Approved,REV07,570.58
+REC0061,27-07-2026,Independent House,Nashik,Tile,Fiber Cement,3,None,Needs Review,REV10,890.15
+REC0062,14-01-2026,Apartment,Nashik,Tile,Stucco,1,None,Needs Review,REV07,-25
+REC0063,21-08-2026,Townhouse,Mumbai,Flat,Wood,2,Roof Damage,Approved,REV08,127.14
+REC0064,04-10-2026,Apartment,Mumbai,Tile,Brick,4,None,Approved,REV04,379.1
+REC0065,11-01-2026,Independent House,Pune,Tile,Stucco,4,None,Rejected,REV04,751.05
+REC0066,12-05-2026,Townhouse,Pune,Slate,Fiber Cement,4,None,Approved,REV05,251.34
+REC0067,14-01-2026,Townhouse,Aurangabad,Flat,Stucco,4,Tree Damage,Approved,REV10,1066.86
+REC0068,05-05-2026,Apartment,,Slate,Brick,3,None,Needs Review,REV09,699.73
+REC0069,09-07-2026,Apartment,Aurangabad,Metal,Brick,0,Water Damage,Approved,REV07,1445.1
+REC0070,24-08-2026,Independent House,Nashik,Tile,Fiber Cement,4,Roof Damage,Rejected,REV09,1184.5
+REC0071,27-08-2026,Villa,Aurangabad,Metal,Wood,1,None,Needs Review,REV08,441.41
+REC0072,26-08-2026,Villa,Mumbai,Asphalt Shingle,Stucco,2,Tree Damage,Needs Review,REV04,596.75
+REC0073,13-05-2026,Townhouse,Mumbai,Slate,Wood,3,None,Rejected,REV04,219.86
+REC0074,28-07-2026,Villa,Aurangabad,Tile,Stucco,4,,Needs Review,REV01,230.27
+REC0075,24-04-2026,Villa,Pune,Metal,Fiber Cement,2,Water Damage,Rejected,REV09,581.26
+REC0076,09-10-2026,Townhouse,Mumbai,,Wood,2,Roof Damage,Approved,REV02,1109.8
+REC0077,11-06-2026,Apartment,Aurangabad,Tile,Vinyl,1,Water Damage,Needs Review,REV12,925.42
+REC0078,26-09-2026,Townhouse,Nagpur,Tile,Wood,1,Roof Damage,Approved,REV05,119.81
+REC0079,01-10-2026,Independent House,Mumbai,Asphalt Shingle,Brick,3,Roof Damage,Rejected,REV03,993.02
+REC0080,09-09-2026,Apartment,Nagpur,Slate,Wood,2,Water Damage,Needs Review,REV06,358.11
+REC0081,27-01-2026,Townhouse,Nashik,Asphalt Shingle,Brick,2,Water Damage,Approved,REV10,981.22
+REC0082,28-01-2026,Independent House,Pune,Slate,Wood,1,Tree Damage,Approved,REV09,1170.22
+REC0083,26-04-2026,Villa,Nashik,Flat,Wood,3,Water Damage,Needs Review,REV10,969.44
+REC0084,20-02-2026,Independent House,Pune,Metal,Brick,1,Tree Damage,Approved,REV09,205.09
+REC0085,02-01-2026,Villa,,Slate,Stucco,2,None,Approved,REV05,1089.74
+REC0086,21-08-2026,Apartment,Pune,Metal,Fiber Cement,4,Tree Damage,Needs Review,REV02,862.39
+REC0087,18-03-2026,Townhouse,Pune,Asphalt Shingle,Brick,1,Roof Damage,Pending??,REV12,1253.94
+REC0088,28-05-2026,Villa,Nagpur,Flat,Wood,4,Water Damage,Needs Review,REV09,855.97
+REC0089,13-08-2026,Apartment,Aurangabad,Asphalt Shingle,Stucco,4,Roof Damage,Rejected,REV05,136.21
+REC0090,28-04-2026,Apartment,Mumbai,Slate,Brick,1,Water Damage,Rejected,REV11,719.12
+REC0091,23-05-2026,Independent House,Aurangabad,Flat,Stucco,1,Water Damage,Needs Review,REV07,566.63
+REC0092,23-02-2026,Independent House,Mumbai,Flat,Stucco,0,Water Damage,Rejected,REV01,736.76
+REC0093,11-06-2026,Townhouse,Mumbai,Asphalt Shingle,Stucco,3,None,Rejected,REV09,-25
+REC0094,28-01-2026,Independent House,Aurangabad,Metal,Fiber Cement,2,Water Damage,Approved,REV04,473.88
+REC0095,09-03-2026,Townhouse,Nashik,,Brick,1,Structural Concern,Approved,REV12,321.73
+REC0096,10-10-2026,Apartment,Aurangabad,Flat,Brick,1,None,Needs Review,REV02,1006.79
+REC0097,20-03-2026,Villa,Mumbai,Slate,Wood,2,Water Damage,Needs Review,REV04,739.5
+REC0098,16-03-2026,Villa,Pune,Slate,Fiber Cement,4,Tree Damage,Approved,REV05,1181.75
+REC0099,01-08-2026,Townhouse,Aurangabad,Metal,Brick,2,Roof Damage,Rejected,REV10,1498.46
+REC0100,08-09-2026,Independent House,Nashik,Slate,Stucco,2,Roof Damage,Rejected,REV09,628.09
+REC0101,14-06-2026,Independent House,Pune,Slate,Stucco,1,Water Damage,Approved,REV06,1142.59
+REC0102,15-07-2026,Villa,,Flat,Brick,1,Structural Concern,Rejected,REV06,1317.58
+REC0103,14-08-2026,Apartment,Aurangabad,Flat,Brick,4,Tree Damage,Needs Review,REV11,1457.94
+REC0104,08-02-2026,Villa,Mumbai,Metal,Fiber Cement,4,Water Damage,Rejected,REV02,1292.47
+REC0105,01-10-2026,Villa,Mumbai,Flat,Fiber Cement,1,Structural Concern,Approved,REV04,983.63
+REC0106,28-05-2026,Independent House,Nagpur,Flat,Brick,4,None,Needs Review,REV03,1071.6
+REC0107,15-01-2026,Apartment,Mumbai,Asphalt Shingle,Wood,2,Roof Damage,Needs Review,REV03,441.88
+REC0108,30-07-2026,Independent House,Pune,Tile,Brick,3,Water Damage,Rejected,REV11,437.16
+REC0109,15-03-2026,Independent House,Nashik,Metal,Stucco,2,None,Needs Review,REV05,1048.66
+REC0110,22-03-2026,Apartment,Nashik,Metal,Fiber Cement,2,Water Damage,Rejected,REV05,739.57
+REC0111,04-06-2026,Independent House,Nashik,Flat,Brick,1,,Rejected,REV06,904.74
+REC0112,01-06-2026,Apartment,Nashik,Metal,Brick,3,None,Rejected,REV12,795.42
+REC0113,27-05-2026,Independent House,Aurangabad,Metal,Vinyl,4,Tree Damage,Rejected,REV05,1048.87
+REC0114,12-03-2026,Apartment,Nagpur,,Stucco,1,Structural Concern,Needs Review,REV12,283.98
+REC0115,01-06-2026,Townhouse,Nashik,Tile,Vinyl,0,Structural Concern,Needs Review,REV09,802.51
+REC0116,20-05-2026,Independent House,Mumbai,Flat,Wood,4,Roof Damage,Pending??,REV08,1448.05
+REC0117,14-03-2026,Independent House,Nashik,Slate,Wood,1,Water Damage,Approved,REV05,851.2
+REC0118,21-08-2026,Townhouse,Mumbai,Slate,Stucco,4,Roof Damage,Approved,REV11,427.35
+REC0119,13-01-2026,Townhouse,,Tile,Brick,4,Water Damage,Rejected,REV05,1008.94
+REC0120,01-03-2026,Independent House,Nagpur,Asphalt Shingle,Wood,2,None,Approved,REV04,1342.16
+REC0121,11-03-2026,Villa,Nashik,Metal,Fiber Cement,2,Structural Concern,Rejected,REV12,316.33
+REC0122,01-08-2026,Apartment,Nashik,Slate,Stucco,2,None,Rejected,REV06,404.18
+REC0123,16-08-2026,Independent House,Mumbai,Asphalt Shingle,Wood,3,Roof Damage,Approved,REV07,486.23
+REC0124,04-03-2026,Villa,Nagpur,Tile,Fiber Cement,1,None,Needs Review,REV04,-25
+REC0125,17-10-2026,Independent House,Nagpur,Slate,Vinyl,3,Tree Damage,Approved,REV06,1184.12
+REC0126,02-01-2026,Townhouse,Pune,Tile,Fiber Cement,2,Tree Damage,Approved,REV11,1313.03
+REC0127,09-03-2026,Apartment,Mumbai,Tile,Fiber Cement,2,None,Approved,REV05,173.36
+REC0128,04-08-2026,Apartment,Nagpur,Flat,Stucco,2,Structural Concern,Rejected,REV02,732.81
+REC0129,24-04-2026,Apartment,Aurangabad,Metal,Stucco,4,None,Approved,REV08,1286.22
+REC0130,07-08-2026,Apartment,Nashik,Flat,Brick,1,Roof Damage,Rejected,REV03,191.96
+REC0131,21-05-2026,Townhouse,Nashik,Slate,Fiber Cement,2,Water Damage,Rejected,REV10,702.28
+REC0132,28-02-2026,Independent House,Nashik,Flat,Vinyl,2,Roof Damage,Needs Review,REV07,682.39
+REC0133,18-02-2026,Townhouse,Nashik,,Wood,2,Tree Damage,Rejected,REV08,193.99
+REC0134,13-02-2026,Apartment,Nashik,Asphalt Shingle,Wood,1,Structural Concern,Approved,REV10,1439.27
+REC0135,15-10-2026,Townhouse,Nagpur,Flat,Wood,4,Water Damage,Rejected,REV01,1455.76
+REC0136,09-06-2026,Townhouse,,Slate,Fiber Cement,1,Tree Damage,Rejected,REV08,413.94
+REC0137,25-02-2026,Townhouse,Aurangabad,Metal,Brick,2,Structural Concern,Approved,REV07,1283.22
+REC0138,13-10-2026,Apartment,Aurangabad,Metal,Brick,0,Roof Damage,Rejected,REV05,1390.15
+REC0139,29-06-2026,Apartment,Pune,Tile,Fiber Cement,4,Water Damage,Approved,REV03,1137.36
+REC0140,16-01-2026,Apartment,Aurangabad,Tile,Stucco,2,Water Damage,Needs Review,REV03,618.07
+REC0141,16-06-2026,Apartment,Nagpur,Tile,Vinyl,3,None,Rejected,REV02,480.94
+REC0142,06-08-2026,Villa,Aurangabad,Flat,Stucco,2,Tree Damage,Rejected,REV02,583.24
+REC0143,26-02-2026,Townhouse,Aurangabad,Flat,Fiber Cement,4,Roof Damage,Approved,REV04,653.37
+REC0144,29-01-2026,Apartment,Pune,Metal,Vinyl,1,Roof Damage,Needs Review,REV06,267.98
+REC0145,12-09-2026,Villa,Pune,Tile,Stucco,3,Tree Damage,Pending??,REV09,1266.7
+REC0146,01-07-2026,Apartment,Nashik,Asphalt Shingle,Stucco,1,Water Damage,Approved,REV06,906.06
+REC0147,27-07-2026,Villa,Mumbai,Asphalt Shingle,Stucco,1,Roof Damage,Approved,REV10,744.14
+REC0148,05-07-2026,Apartment,Nashik,Asphalt Shingle,Vinyl,2,,Needs Review,REV09,210.11
+REC0149,08-06-2026,Townhouse,Pune,Metal,Vinyl,1,Structural Concern,Rejected,REV02,842.85
+REC0150,10-04-2026,Townhouse,Mumbai,Tile,Vinyl,1,Tree Damage,Needs Review,REV04,342.9
+REC0151,20-03-2026,Apartment,Pune,Flat,Stucco,3,Structural Concern,Needs Review,REV11,1393.82
+REC0152,17-10-2026,Townhouse,Mumbai,,Stucco,1,Water Damage,Needs Review,REV11,523.95
+REC0153,21-05-2026,Apartment,,Slate,Brick,2,Water Damage,Needs Review,REV01,179.65
+REC0154,27-05-2026,Apartment,Nagpur,Slate,Fiber Cement,3,Water Damage,Needs Review,REV10,876.04
+REC0155,22-01-2026,Villa,Aurangabad,Tile,Wood,3,Water Damage,Rejected,REV03,-25
+REC0156,19-08-2026,Apartment,Mumbai,Asphalt Shingle,Fiber Cement,4,Tree Damage,Approved,REV04,1090.67
+REC0157,13-08-2026,Independent House,Mumbai,Metal,Wood,2,Water Damage,Needs Review,REV11,937.04
+REC0158,21-06-2026,Apartment,Mumbai,Asphalt Shingle,Fiber Cement,4,Water Damage,Needs Review,REV05,1113.23
+REC0159,18-03-2026,Townhouse,Nagpur,Slate,Vinyl,2,Roof Damage,Rejected,REV12,1026.99
+REC0160,08-03-2026,Apartment,Mumbai,Slate,Stucco,4,Roof Damage,Approved,REV11,1083.96
+REC0161,27-09-2026,Apartment,Nashik,Slate,Wood,0,Roof Damage,Needs Review,REV03,1431.64
+REC0162,24-06-2026,Villa,Pune,Tile,Vinyl,1,None,Needs Review,REV02,810.77
+REC0163,04-10-2026,Apartment,Mumbai,Slate,Vinyl,3,Water Damage,Approved,REV03,353.18
+REC0164,26-03-2026,Villa,Nagpur,Flat,Wood,4,Tree Damage,Needs Review,REV10,498.9
+REC0165,18-08-2026,Independent House,Aurangabad,Tile,Wood,2,Tree Damage,Needs Review,REV11,1425.98
+REC0166,14-08-2026,Villa,Mumbai,Flat,Fiber Cement,3,Water Damage,Approved,REV04,1221.76
+REC0167,12-03-2026,Townhouse,Nagpur,Flat,Wood,3,None,Rejected,REV09,1291.63
+REC0168,26-05-2026,Apartment,Pune,Metal,Stucco,3,Tree Damage,Needs Review,REV02,1424.98
+REC0169,24-04-2026,Villa,Mumbai,Asphalt Shingle,Stucco,1,Water Damage,Rejected,REV06,430.09
+REC0170,11-02-2026,Townhouse,,Asphalt Shingle,Wood,1,Roof Damage,Approved,REV03,153.62
+REC0171,30-08-2026,Independent House,Nashik,,Fiber Cement,1,None,Approved,REV05,401.92
+REC0172,18-03-2026,Villa,Nagpur,Metal,Vinyl,2,None,Approved,REV04,687.76
+REC0173,23-08-2026,Apartment,Nagpur,Flat,Fiber Cement,3,None,Rejected,REV09,905.07
+REC0174,15-03-2026,Townhouse,Nashik,Asphalt Shingle,Fiber Cement,2,Tree Damage,Pending??,REV07,362.24
+REC0175,13-02-2026,Townhouse,Nagpur,Slate,Fiber Cement,3,Structural Concern,Rejected,REV01,646.64
+REC0176,29-08-2026,Apartment,Nashik,Metal,Wood,4,None,Needs Review,REV02,582.72
+REC0177,23-02-2026,Townhouse,Pune,Asphalt Shingle,Wood,3,Roof Damage,Rejected,REV03,1262.54
+REC0178,26-08-2026,Villa,Pune,Tile,Brick,4,Water Damage,Approved,REV05,382.23
+REC0179,13-04-2026,Apartment,Mumbai,Metal,Fiber Cement,2,Structural Concern,Needs Review,REV05,151.27
+REC0180,08-04-2026,Townhouse,Mumbai,Asphalt Shingle,Wood,2,None,Needs Review,REV07,1345.28
+REC0181,14-08-2026,Villa,Mumbai,Tile,Stucco,4,Water Damage,Needs Review,REV09,473.41
+REC0182,12-02-2026,Villa,Nagpur,Flat,Fiber Cement,1,Structural Concern,Needs Review,REV06,243.64
+REC0183,17-06-2026,Townhouse,Mumbai,Flat,Fiber Cement,4,Water Damage,Approved,REV12,721.47
+REC0184,17-08-2026,Apartment,Mumbai,Slate,Stucco,0,None,Approved,REV11,992.52
+REC0185,06-07-2026,Independent House,Nagpur,Tile,Fiber Cement,4,,Approved,REV03,194.13
+REC0186,07-07-2026,Townhouse,Nashik,Slate,Brick,3,Tree Damage,Rejected,REV08,-25
+REC0187,10-07-2026,Villa,,Slate,Vinyl,3,Roof Damage,Needs Review,REV06,1009.39
+REC0188,08-05-2026,Apartment,Nagpur,Tile,Stucco,3,Water Damage,Rejected,REV02,466.49
+REC0189,14-05-2026,Villa,Pune,Slate,Wood,4,Water Damage,Approved,REV02,290.02
+REC0190,07-02-2026,Villa,Pune,,Brick,4,Roof Damage,Rejected,REV06,1093.36
+REC0191,09-10-2026,Townhouse,Mumbai,Tile,Vinyl,2,Structural Concern,Approved,REV02,1479.19
+REC0192,13-03-2026,Independent House,Nashik,Asphalt Shingle,Wood,3,Structural Concern,Needs Review,REV08,1225.13
+REC0193,10-10-2026,Independent House,Aurangabad,Asphalt Shingle,Brick,2,Water Damage,Rejected,REV12,770.13
+REC0194,30-07-2026,Villa,Aurangabad,Asphalt Shingle,Vinyl,2,None,Needs Review,REV08,1052.15
+REC0195,26-06-2026,Independent House,Aurangabad,Slate,Vinyl,1,Water Damage,Rejected,REV01,1263.95
+REC0196,23-09-2026,Independent House,Mumbai,Tile,Vinyl,2,Tree Damage,Needs Review,REV09,1352.9
+REC0197,10-02-2026,Townhouse,Pune,Slate,Wood,1,Roof Damage,Rejected,REV09,230.8
+REC0198,28-03-2026,Independent House,Pune,Slate,Fiber Cement,2,Structural Concern,Approved,REV01,213.71
+REC0199,16-05-2026,Independent House,Aurangabad,Flat,Fiber Cement,4,None,Needs Review,REV11,863.81
+REC0200,04-06-2026,Villa,Pune,Flat,Wood,2,None,Rejected,REV01,321.31
+REC0011,03-10-2026,Townhouse,Aurangabad,Flat,Fiber Cement,2,Roof Damage,Approved,REV03,813.34
+REC0036,16-05-2026,Villa,Mumbai,Asphalt Shingle,Brick,4,Water Damage,Needs Review,REV01,104.96
+REC0071,27-08-2026,Villa,Aurangabad,Metal,Wood,1,None,Needs Review,REV08,441.41
